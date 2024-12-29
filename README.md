@@ -1,5 +1,18 @@
 # 💫 About Me:
-🙂‍↔️ I am frontend espically<br>JavaScript, Nextjs, Nodejs, React, Nestjs full stack with,<br>Making 3D interactive websites
+## About Me 👨‍💻
+
+Hi there! 👋 I'm a passionate **Full Stack Developer** specializing in **Frontend Development** with a strong focus on **JavaScript**, **Next.js**, **React**, **Node.js**, and **NestJS**. 🚀
+
+I love building interactive, dynamic, and performance-driven web applications. My journey also includes creating **3D interactive websites** using **Three.js**, where I bring immersive experiences to the web. 🌐✨
+
+### Technologies & Tools:
+- **Frontend**: JavaScript, React, Next.js, HTML5, CSS3
+- **Backend**: Node.js, NestJS
+- **3D Development**: Three.js, WebGL, CSS Animations
+- **Version Control**: Git, GitHub
+- **Deployment**: AWS, Docker
+
+Feel free to explore my repositories and projects. I'm always excited to collaborate on interesting challenges. Let's build something amazing together! 💻💡
 
 
 ## 🌐 Socials:
